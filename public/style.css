@@ -1,0 +1,21 @@
+body {
+  background-color: tomato;
+}
+
+.submit-form {
+  justify-content: center;
+}
+
+.burger-well {
+  margin-left: 1rem;
+  margin-bottom: 1rem;
+}
+.burger-well {
+  justify-content: space-between;
+  margin-right: 8rem;
+  margin-bottom: 1rem;
+}
+
+p {
+  text-decoration: underline;
+}
